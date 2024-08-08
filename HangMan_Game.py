@@ -43,7 +43,7 @@ word_list=list(w2)
 
 random_word_length=len(random_word)
 
-Guess_word_List=[0 for x in range(len(random_word))]
+Guess_word_List=['_' for x in range(len(random_word))]
 Gues_word_Lenght=[]
 Guess_word_String=""
 
