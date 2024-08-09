@@ -138,3 +138,6 @@ for i in range(0,len(random_word)+2):
         else:
             print("\t\t\tSorry Mate\n\t\tYou are out of Chances\n\t*********** Game Over ***********")
     """
+        else:
+            print("\t\t\tSorry Mate\n\t\tYou are out of Chances\n\t*********** Game Over ***********")
+    """
